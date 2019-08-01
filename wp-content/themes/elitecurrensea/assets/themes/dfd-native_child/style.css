@@ -1,0 +1,25 @@
+.products .product:hover .woo-cover .woo-entry-thumb .preview-thumb {
+visibility: visible;
+opacity: 1;
+z-index: 0;
+}
+.products .product .woo-cover .woo-entry-thumb .woo-entry-thumb-carousel {
+opacity: 0;
+}/*
+Theme Name:     DFD Native Child Theme
+Theme URI: 		http://nativewptheme.net/home/
+Description:    Native - Highly Functional Multifaceted WP Theme
+Author:         DFD
+Author URI:		http://dfd.name
+Template:       dfd-native
+Version:        1.0.0
+*/
+.payment_method_stripe img {
+width: 30px;
+height: 20px;
+padding-left: 5px;
+}
+.payment_method_paypal img  {
+    max-width: 35%;
+    height: auto;
+}
