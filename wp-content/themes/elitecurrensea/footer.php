@@ -18,11 +18,11 @@
 											<section id="footer" class="footer-style-2 dfd-background-dark">
 								<div class="row ">
 					<div class="four columns">
-				<section id="text-39" class="widget widget_text"><h3 class="widget-title">Risk warning:</h3>			<div class="textwidget"><p><a href="http://localhost/about-us/terms-of-use-and-privacy-policy-2/" target="_blank" rel="noopener noreferrer">Trading foreign exchange or contracts for differences on margin carries a high level of risk and may not be suitable for all investors. You should ensure you understand all of the risks. Before using Elite Currensea services please acknowledge the risks associated with trading.</a></p>
+				<section id="text-39" class="widget widget_text"><h3 class="widget-title">Risk warning:</h3>			<div class="textwidget"><p><a href="/about-us/terms-of-use-and-privacy-policy-2/" target="_blank" rel="noopener noreferrer">Trading foreign exchange or contracts for differences on margin carries a high level of risk and may not be suitable for all investors. You should ensure you understand all of the risks. Before using Elite Currensea services please acknowledge the risks associated with trading.</a></p>
 </div>
 		</section>			</div>
 					<div class="four columns">
-				<section id="text-34" class="widget widget_text">			<div class="textwidget"><p><a href="http://localhost"><img class="aligncenter wp-image-966" src="<?php bloginfo('template_directory') ?>/assets/uploads/2017/06/Logo-on-Blue-300x111.png" alt="" width="250" height="93" /></a></p>
+				<section id="text-34" class="widget widget_text">			<div class="textwidget"><p><a href=""><img class="aligncenter wp-image-966" src="<?php bloginfo('template_directory') ?>/assets/uploads/2017/06/Logo-on-Blue-300x111.png" alt="" width="250" height="93" /></a></p>
 </div>
 		</section><section id="dfd_soc_icon-7" class="widget widget_dfd_soc_icon">
 		<div class="dfd-soc-icon style-1 text-center bottom_to_top">
@@ -36,7 +36,7 @@
 				})(jQuery);
 			</script>
 		
-		</section><section id="search-4" class="widget widget_search"><form role="search" method="get" id="searchform_5d40459584d46" class="form-search" action="http://localhost/">
+		</section><section id="search-4" class="widget widget_search"><form role="search" method="get" id="searchform_5d40459584d46" class="form-search" action="/">
 	<input type="text" value="" name="s" id="s_5d40459584d01" class="search-query" placeholder="Search on site...">
 	<span class="dfd-background-main" style="display: none;"></span>
 	<input type="submit" value="Search" class="btn">
@@ -61,26 +61,26 @@
 
 	<tfoot>
 	<tr>
-		<td colspan="3" id="prev"><a href="http://localhost/forex-and-cfd-blog/2019/06/">&laquo; Jun</a></td>
+		<td colspan="3" id="prev"><a href="/forex-and-cfd-blog/2019/06/">&laquo; Jun</a></td>
 		<td class="pad">&nbsp;</td>
 		<td colspan="3" id="next" class="pad">&nbsp;</td>
 	</tr>
 	</tfoot>
 
 	<tbody>
-	<tr><td><a href="http://localhost/forex-and-cfd-blog/2019/07/01/" aria-label="Posts published on July 1, 2019">1</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/02/" aria-label="Posts published on July 2, 2019">2</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/03/" aria-label="Posts published on July 3, 2019">3</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/04/" aria-label="Posts published on July 4, 2019">4</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/05/" aria-label="Posts published on July 5, 2019">5</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/06/" aria-label="Posts published on July 6, 2019">6</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/07/" aria-label="Posts published on July 7, 2019">7</a></td>
+	<tr><td><a href="/forex-and-cfd-blog/2019/07/01/" aria-label="Posts published on July 1, 2019">1</a></td><td><a href="/forex-and-cfd-blog/2019/07/02/" aria-label="Posts published on July 2, 2019">2</a></td><td><a href="/forex-and-cfd-blog/2019/07/03/" aria-label="Posts published on July 3, 2019">3</a></td><td><a href="/forex-and-cfd-blog/2019/07/04/" aria-label="Posts published on July 4, 2019">4</a></td><td><a href="/forex-and-cfd-blog/2019/07/05/" aria-label="Posts published on July 5, 2019">5</a></td><td><a href="/forex-and-cfd-blog/2019/07/06/" aria-label="Posts published on July 6, 2019">6</a></td><td><a href="/forex-and-cfd-blog/2019/07/07/" aria-label="Posts published on July 7, 2019">7</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://localhost/forex-and-cfd-blog/2019/07/08/" aria-label="Posts published on July 8, 2019">8</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/09/" aria-label="Posts published on July 9, 2019">9</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/10/" aria-label="Posts published on July 10, 2019">10</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/11/" aria-label="Posts published on July 11, 2019">11</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/12/" aria-label="Posts published on July 12, 2019">12</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/13/" aria-label="Posts published on July 13, 2019">13</a></td><td>14</td>
+		<td><a href="/forex-and-cfd-blog/2019/07/08/" aria-label="Posts published on July 8, 2019">8</a></td><td><a href="/forex-and-cfd-blog/2019/07/09/" aria-label="Posts published on July 9, 2019">9</a></td><td><a href="/forex-and-cfd-blog/2019/07/10/" aria-label="Posts published on July 10, 2019">10</a></td><td><a href="/forex-and-cfd-blog/2019/07/11/" aria-label="Posts published on July 11, 2019">11</a></td><td><a href="/forex-and-cfd-blog/2019/07/12/" aria-label="Posts published on July 12, 2019">12</a></td><td><a href="/forex-and-cfd-blog/2019/07/13/" aria-label="Posts published on July 13, 2019">13</a></td><td>14</td>
 	</tr>
 	<tr>
-		<td><a href="http://localhost/forex-and-cfd-blog/2019/07/15/" aria-label="Posts published on July 15, 2019">15</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/16/" aria-label="Posts published on July 16, 2019">16</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/17/" aria-label="Posts published on July 17, 2019">17</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/18/" aria-label="Posts published on July 18, 2019">18</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/19/" aria-label="Posts published on July 19, 2019">19</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/20/" aria-label="Posts published on July 20, 2019">20</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/21/" aria-label="Posts published on July 21, 2019">21</a></td>
+		<td><a href="/forex-and-cfd-blog/2019/07/15/" aria-label="Posts published on July 15, 2019">15</a></td><td><a href="/forex-and-cfd-blog/2019/07/16/" aria-label="Posts published on July 16, 2019">16</a></td><td><a href="/forex-and-cfd-blog/2019/07/17/" aria-label="Posts published on July 17, 2019">17</a></td><td><a href="/forex-and-cfd-blog/2019/07/18/" aria-label="Posts published on July 18, 2019">18</a></td><td><a href="/forex-and-cfd-blog/2019/07/19/" aria-label="Posts published on July 19, 2019">19</a></td><td><a href="/forex-and-cfd-blog/2019/07/20/" aria-label="Posts published on July 20, 2019">20</a></td><td><a href="/forex-and-cfd-blog/2019/07/21/" aria-label="Posts published on July 21, 2019">21</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://localhost/forex-and-cfd-blog/2019/07/22/" aria-label="Posts published on July 22, 2019">22</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/23/" aria-label="Posts published on July 23, 2019">23</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/24/" aria-label="Posts published on July 24, 2019">24</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/25/" aria-label="Posts published on July 25, 2019">25</a></td><td><a href="http://localhost/forex-and-cfd-blog/2019/07/26/" aria-label="Posts published on July 26, 2019">26</a></td><td>27</td><td>28</td>
+		<td><a href="/forex-and-cfd-blog/2019/07/22/" aria-label="Posts published on July 22, 2019">22</a></td><td><a href="/forex-and-cfd-blog/2019/07/23/" aria-label="Posts published on July 23, 2019">23</a></td><td><a href="/forex-and-cfd-blog/2019/07/24/" aria-label="Posts published on July 24, 2019">24</a></td><td><a href="/forex-and-cfd-blog/2019/07/25/" aria-label="Posts published on July 25, 2019">25</a></td><td><a href="/forex-and-cfd-blog/2019/07/26/" aria-label="Posts published on July 26, 2019">26</a></td><td>27</td><td>28</td>
 	</tr>
 	<tr>
-		<td><a href="http://localhost/forex-and-cfd-blog/2019/07/29/" aria-label="Posts published on July 29, 2019">29</a></td><td id="today"><a href="http://localhost/forex-and-cfd-blog/2019/07/30/" aria-label="Posts published on July 30, 2019">30</a></td><td>31</td>
+		<td><a href="/forex-and-cfd-blog/2019/07/29/" aria-label="Posts published on July 29, 2019">29</a></td><td id="today"><a href="/forex-and-cfd-blog/2019/07/30/" aria-label="Posts published on July 30, 2019">30</a></td><td>31</td>
 		<td class="pad" colspan="4">&nbsp;</td>
 	</tr>
 	</tbody>
@@ -397,7 +397,7 @@ class="mc-field-group input-group"><br />
 
 	</div>
 	
-</div><div id="cookie-law-info-bar"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.<a  data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block; ">Accept</a>  <a  id="cookie_action_close_header_reject"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header_reject cli_action_button"  data-cli_action="reject">Reject</a> <a href='http://localhost/about-us/terms-of-use-and-privacy-policy/' id="CONSTANT_OPEN_URL" target="_blank"  class="cli-plugin-main-link"  style="display:inline-block;" >Read More</a></span></div><div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+</div><div id="cookie-law-info-bar"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.<a  data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block; ">Accept</a>  <a  id="cookie_action_close_header_reject"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header_reject cli_action_button"  data-cli_action="reject">Reject</a> <a href='/about-us/terms-of-use-and-privacy-policy/' id="CONSTANT_OPEN_URL" target="_blank"  class="cli-plugin-main-link"  style="display:inline-block;" >Read More</a></span></div><div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
   <div class="cli-modal-dialog" role="document">
     <div class="cli-modal-content cli-bar-popup">
       <button type="button" class="cli-modal-close" id="cliModalClose">
@@ -466,7 +466,7 @@ class="mc-field-group input-group"><br />
 <div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
 <div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
 <link rel="stylesheet" href="<?php bloginfo('template_directory') ?>/assets/plugins/dfd-extensions/redux_extensions/extensions/header_builder/frontend/css/header-styles.css%3Fver=5.2.2.css">
-<script type='text/javascript' src='http://localhost/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1'></script>
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/som-free-downloads-woocommerce-pro/pro/assets/js/somdn_pro_script.js%3Fver=1.0.0"></script>
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js%3Fver=2.1.4"></script>
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/woocommerce/assets/js/frontend/woocommerce.min.js%3Fver=3.6.5"></script>
@@ -478,11 +478,11 @@ var boxzilla_options = {"testMode":"1","boxes":[{"id":14729,"icon":"&times;","co
 /* ]]> */
 </script>
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/boxzilla/assets/js/script.min.js%3Fver=3.2.11"></script>
-<script type='text/javascript' src='http://localhost/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
-<script type='text/javascript' src='http://localhost/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
-<script type='text/javascript' src='http://localhost/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/ultimate-member/assets/js/select2/select2.full.min.js%3Fver=2.0.54"></script>
-<script type='text/javascript' src='http://localhost/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/ultimate-member/assets/js/um-crop.min.js%3Fver=2.0.54"></script>
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/ultimate-member/assets/js/um-modal.min.js%3Fver=2.0.54"></script>
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/ultimate-member/assets/js/um-jquery-form.min.js%3Fver=2.0.54"></script>
@@ -506,7 +506,7 @@ var boxzilla_options = {"testMode":"1","boxes":[{"id":14729,"icon":"&times;","co
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/js_composer/assets/js/dist/js_composer_front.min.js%3Fver=6.0.5"></script>
 <script type='text/javascript' src="<?php bloginfo('template_directory') ?>/assets/plugins/mailchimp-for-wp/assets/js/forms-api.min.js%3Fver=4.5.3"></script>
 <!--[if lte IE 9]>
-<script type='text/javascript' src='http://localhost/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.5.3'></script>
 <![endif]-->
 <link rel="stylesheet" href="<?php bloginfo('template_directory') ?>/assets/plugins/dfd-extensions/assets/fonts/fonts.css" />		
 			

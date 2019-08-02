@@ -163,9 +163,9 @@ class BootstrapNavMenuWalker extends Walker_Nav_Menu {
 	
 	function start_lvl( &$output, $depth = 0, $args = array() ) {
  
-		$sub = $depth > 1 ? 'sub' : '';
+		$sub = $depth > 0 ? '-sub' : '';
 		$indent = str_repeat( "\t", $depth );
-		$div = $depth == 0 ? '<div class=\"sub-nav\">' : '';
+		$div = $depth == 0 ? '<div class="sub-nav">' : '';
 		$output	.= "\n$indent {$div}<ul class=\"menu-depth-{$depth} sub{$sub}-menu sub-nav-group\">\n";
 
 	}

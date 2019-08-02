@@ -17,7 +17,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="dns-prefetch" href="https://fonts.googleapis.com/"/>
-    <link rel="alternate" type="application/rss+xml" title="ECS: Elite CurrenSea Feed" href="http://localhost/feed/">
+    <link rel="alternate" type="application/rss+xml" title="ECS: Elite CurrenSea Feed" href="/feed/">
     <title>Free Education and Analysis in Forex &amp; CFD Blog - Elite CurrenSea</title>
     
     <!-- This site is optimized with the Yoast SEO plugin v11.7 - https://yoast.com/wordpress/plugins/seo/ -->
@@ -29,12 +29,12 @@
     <meta property="og:title" content="Free Education and Analysis in Forex &amp; CFD Blog"/>
     <meta property="og:description"
           content="In our Forex and CFD blog, you&#039;ll find latest market analysis based on technical &amp; wave analysis, as well as free forex education and trading strategies."/>
-    <meta property="og:url" content="http://localhost/forex-and-cfd-blog/"/>
+    <meta property="og:url" content="/forex-and-cfd-blog/"/>
     <meta property="og:site_name" content="ECS: Elite CurrenSea"/>
     <meta property="article:publisher" content="http://facebook.com/elitecurrensea/"/>
     <meta property="article:section" content="Education"/>
-    <meta property="og:image" content="http://localhost/wp-content/uploads/2017/06/foex-blog.png"/>
-    <meta property="og:image:secure_url" content="http://localhost/wp-content/uploads/2017/06/foex-blog.png"/>
+    <meta property="og:image" content="/wp-content/uploads/2017/06/foex-blog.png"/>
+    <meta property="og:image:secure_url" content="/wp-content/uploads/2017/06/foex-blog.png"/>
     <meta property="og:image:width" content="1200"/>
     <meta property="og:image:height" content="628"/>
     <meta name="twitter:card" content="summary_large_image"/>
@@ -42,30 +42,30 @@
           content="In our Forex and CFD blog, you&#039;ll find latest market analysis based on technical &amp; wave analysis, as well as free forex education and trading strategies."/>
     <meta name="twitter:title" content="Free Education and Analysis in Forex &amp; CFD Blog"/>
     <meta name="twitter:site" content="@EliteCurrensea"/>
-    <meta name="twitter:image" content="http://localhost/wp-content/uploads/2017/06/foex-blog.png"/>
+    <meta name="twitter:image" content="/wp-content/uploads/2017/06/foex-blog.png"/>
     <meta name="twitter:creator" content="@EliteCurrensea"/>
     <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{
             "@context": "https://schema.org",
             "@graph": [
                 {
                     "@type": "WebSite",
-                    "@id": "http://localhost/#website",
-                    "url": "http://localhost/",
+                    "@id": "/#website",
+                    "url": "/",
                     "name": "ECS: Elite CurrenSea",
                     "potentialAction": {
                         "@type": "SearchAction",
-                        "target": "http://localhost/?s={search_term_string}",
+                        "target": "/?s={search_term_string}",
                         "query-input": "required name=search_term_string"
                     }
                 },
                 {
                     "@type": "WebPage",
-                    "@id": "http://localhost/forex-and-cfd-blog/#webpage",
-                    "url": "http://localhost/forex-and-cfd-blog/",
+                    "@id": "/forex-and-cfd-blog/#webpage",
+                    "url": "/forex-and-cfd-blog/",
                     "inLanguage": "en-US",
                     "name": "Free Education and Analysis in Forex &amp; CFD Blog - Elite CurrenSea",
                     "isPartOf": {
-                        "@id": "http://localhost/#website"
+                        "@id": "/#website"
                     },
                     "datePublished": "2017-06-22T08:06:38+00:00",
                     "dateModified": "2018-08-27T12:09:05+00:00",
@@ -78,12 +78,12 @@
     <link rel='dns-prefetch' href='https://fonts.googleapis.com/'/>
     <link rel='dns-prefetch' href='https://s.w.org/'/>
     <link rel="alternate" type="application/rss+xml" title="ECS: Elite CurrenSea &raquo; Feed"
-          href="http://localhost/feed/"/>
+          href="/feed/"/>
     <link rel="alternate" type="application/rss+xml" title="ECS: Elite CurrenSea &raquo; Comments Feed"
-          href="http://localhost/comments/feed/"/>
+          href="/comments/feed/"/>
     <link rel="stylesheet"
           href="<?php bloginfo( 'template_directory' ) ?>/assets/plugins/dfd-extensions/assets/fonts/dfd_icon_set/dfd_icon_set.css%3Fver=5.2.2.css">
-    <link rel="stylesheet" href="http://localhost/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2">
+    <link rel="stylesheet" href="/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2">
     <link rel="stylesheet"
           href="<?php bloginfo( 'template_directory' ) ?>/assets/plugins/woocommerce/assets/css/blocks/style.css%3Fver=3.6.5.css">
     <link rel="stylesheet"
@@ -130,7 +130,7 @@
           href="<?php bloginfo( 'template_directory' ) ?>/assets/plugins/bbpress-wp-tweaks/style.css%3Fver=5.2.2.css">
     <!--[if lt IE 9]>
     <link rel="stylesheet"
-          href="http://localhost/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.5">
+          href="/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.5">
     <![endif]-->
     <link rel="stylesheet"
           href="<?php bloginfo( 'template_directory' ) ?>/assets/plugins/js_composer/assets/css/js_composer.min.css%3Fver=6.0.5.css">
@@ -187,9 +187,9 @@
     <link rel="stylesheet" href="<?php bloginfo( 'template_directory' ) ?>/assets/themes/dfd-native_child/style.css">
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic%7CMontserrat%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic&#038;subset=latin&#038;ver=1560355309">
-    <script type='text/javascript' src='http://localhost/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
     <script type='text/javascript'
-            src='http://localhost/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+            src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
     <script type='text/javascript'
             src="<?php bloginfo( 'template_directory' ) ?>/assets/plugins/sfwd-lms/includes/gutenberg/assets/js/frontend.blocks.js%3Fver=1553203777"></script>
     <script type='text/javascript'
@@ -218,26 +218,26 @@
             src="<?php bloginfo( 'template_directory' ) ?>/assets/plugins/rich-reviews/js/rich-reviews.min.js%3Fver=5.2.2"></script>
     <script type='text/javascript'
             src="<?php bloginfo( 'template_directory' ) ?>/assets/plugins/ultimate-member/assets/js/um-gdpr.min.js%3Fver=2.0.54"></script>
-    <link rel='https://api.w.org/' href='http://localhost/wp-json/'/>
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/xmlrpc.php?rsd"/>
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/wp-includes/wlwmanifest.xml"/>
+    <link rel='https://api.w.org/' href='/wp-json/'/>
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd"/>
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"/>
     <meta name="generator" content="WordPress 5.2.2"/>
     <meta name="generator" content="WooCommerce 3.6.5"/>
-    <link rel='shortlink' href='http://localhost/?p=881'/>
+    <link rel='shortlink' href='/?p=881'/>
     <link rel="alternate" type="application/json+oembed"
-          href="http://localhost/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.elitecurrensea.com%2Fforex-and-cfd-blog%2F"/>
+          href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.elitecurrensea.com%2Fforex-and-cfd-blog%2F"/>
     <link rel="alternate" type="text/xml+oembed"
-          href="http://localhost/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.elitecurrensea.com%2Fforex-and-cfd-blog%2F&#038;format=xml"/>
+          href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.elitecurrensea.com%2Fforex-and-cfd-blog%2F&#038;format=xml"/>
     <!-- This site is optimized with the Schema plugin v1.7.5 - https://schema.press -->
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
     <meta name="generator"
           content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."/>
-    <link rel="icon" href="http://localhost/wp-content/uploads/2017/06/Main-sign-512x512-100x100.png" sizes="32x32"/>
-    <link rel="icon" href="http://localhost/wp-content/uploads/2017/06/Main-sign-512x512-300x300.png" sizes="192x192"/>
+    <link rel="icon" href="/wp-content/uploads/2017/06/Main-sign-512x512-100x100.png" sizes="32x32"/>
+    <link rel="icon" href="/wp-content/uploads/2017/06/Main-sign-512x512-300x300.png" sizes="192x192"/>
     <link rel="apple-touch-icon-precomposed"
-          href="http://localhost/wp-content/uploads/2017/06/Main-sign-512x512-300x300.png"/>
+          href="/wp-content/uploads/2017/06/Main-sign-512x512-300x300.png"/>
     <meta name="msapplication-TileImage"
-          content="http://localhost/wp-content/uploads/2017/06/Main-sign-512x512-300x300.png"/>
+          content="/wp-content/uploads/2017/06/Main-sign-512x512-300x300.png"/>
 
     <noscript>
         <style> .wpb_animate_when_almost_visible {
@@ -264,7 +264,7 @@
                     target="_blank"></a><a href="https://www.youtube.com/channel/UCpimDN3XJ9Pg6ML9UALlLOg"
                                            class="yt dfd-socicon-youtube" title="YouTube" target="_blank"></a></div>
         <div class="sidr-buttons-container" style="display: none;">
-            <div class="total_cart_header"><a class="woo-cart-contents" href="http://localhost/checkout/" title=""><span
+            <div class="total_cart_header"><a class="woo-cart-contents" href="/checkout/" title=""><span
                             class="woo-cart-items"><i class="dfd-socicon-icon-ios7-cart"></i>
                         <!-- <span class="dfd-header-cart-handle"></span> --></span><span
                             class="woo-cart-details">0</span></a></div>
@@ -283,7 +283,7 @@
         </svg>
     </div>
     <div class="row">
-        <form role="search" method="get" id="searchform_5d404594d6879" class="form-search" action="http://localhost/">
+        <form role="search" method="get" id="searchform_5d404594d6879" class="form-search" action="/">
             <input type="text" value="" name="s" id="s_5d404594d6834" class="search-query"
                    placeholder="Search on site...">
             <span class="dfd-background-main" style="display: none;"></span>
@@ -314,22 +314,22 @@
             <div class="row">
                 <div class="twelve columns">
                     <div class="dfd-header-logos">
-                        <div class="dfd-logo-wrap"><a href="http://localhost/" title="Site logo"><img
+                        <div class="dfd-logo-wrap"><a href="/" title="Site logo"><img
                                         src="<?php bloginfo( 'template_directory' ) ?>/assets/uploads/2017/06/Logo-Original-ppt-header.png"
                                         class="main-logo" width="122" height="45" alt="Site logo"
-                                        data-retina="http://localhost/wp-content/uploads/2017/06/Logo-Original-3.png"/></a>
+                                        data-retina="/wp-content/uploads/2017/06/Logo-Original-3.png"/></a>
                         </div>
-                        <div class="dfd-logo-wrap mobile-sticky-logos sticky-logo-wrap"><a href="http://localhost/"
+                        <div class="dfd-logo-wrap mobile-sticky-logos sticky-logo-wrap"><a href="/"
                                                                                            title="Site logo"><img
                                         src="<?php bloginfo( 'template_directory' ) ?>/assets/uploads/2017/06/Logo-Original-ppt-header.png"
                                         width="122" height="45" class="sticky-logo"
-                                        data-retina="http://localhost/wp-content/uploads/2017/06/Logo-Original-3.png"
+                                        data-retina="/wp-content/uploads/2017/06/Logo-Original-3.png"
                                         alt="Sticky header logo"/></a></div>
-                        <div class="dfd-logo-wrap mobile-sticky-logos"><a href="http://localhost/"
+                        <div class="dfd-logo-wrap mobile-sticky-logos"><a href="/"
                                                                           title="Site logo"><img
                                         src="<?php bloginfo( 'template_directory' ) ?>/assets/uploads/2017/06/Logo-Original-ppt-header.png"
                                         class="mobile-logo" width="122" height="45" alt="Site logo"
-                                        data-retina="http://localhost/wp-content/uploads/2017/06/Logo-Original-3.png"/></a>
+                                        data-retina="/wp-content/uploads/2017/06/Logo-Original-3.png"/></a>
                         </div>
                     </div>
                     <div class="dfd-header-buttons-wrap">
