@@ -1,0 +1,24 @@
+.learndash-error {
+	color: red;
+	font-weight: bold;
+}
+.learndash-success {
+	color: green;
+	font-weight: bold;
+}
+
+/* Style for the dropdown menu Strip button */
+.checkout-dropdown-button .learndash-stripe-checkout-button {
+	border: 0px;
+	border-radius: 0 !important;
+    font-size: 16px !important;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.checkout-dropdown-button .learndash-stripe-checkout-button:hover {
+	background-color: #F5F5F5 !important;
+	color: #000000 !important;
+}
+
