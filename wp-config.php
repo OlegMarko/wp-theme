@@ -37,6 +37,9 @@ define( 'DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '');
 
+/** Sets up 'direct' method for wordpress, auto update without FTP */
+define('FS_METHOD', 'direct');
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *

@@ -12,7 +12,7 @@
 ?>
 
 <!DOCTYPE html>
-<html class="no-ie" lang="en-US"> <!--<![endif]-->
+<html class="no-ie" lang="en-US">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -182,7 +182,7 @@
     <link rel="stylesheet"
           href="<?php bloginfo( 'template_directory' ) ?>/assets/themes/dfd-native/assets/css/woocommerce.css">
     <link rel="stylesheet"
-          href="<?php bloginfo( 'template_directory' ) ?>/assets/themes/dfd-native/assets/css/mobile-responsive.css">
+<!--          href="--><?php //bloginfo( 'template_directory' ) ?><!--/assets/themes/dfd-native/assets/css/mobile-responsive.css">-->
     <link rel="stylesheet" href="<?php bloginfo( 'template_directory' ) ?>/assets/uploads/redux/options.css">
     <link rel="stylesheet" href="<?php bloginfo( 'template_directory' ) ?>/assets/themes/dfd-native_child/style.css">
     <link rel="stylesheet"
@@ -265,8 +265,7 @@
                                            class="yt dfd-socicon-youtube" title="YouTube" target="_blank"></a></div>
         <div class="sidr-buttons-container" style="display: none;">
             <div class="total_cart_header"><a class="woo-cart-contents" href="/checkout/" title=""><span
-                            class="woo-cart-items"><i class="dfd-socicon-icon-ios7-cart"></i>
-                        <!-- <span class="dfd-header-cart-handle"></span> --></span><span
+                            class="woo-cart-items"><i class="dfd-socicon-icon-ios7-cart"></i></span><span
                             class="woo-cart-details">0</span></a></div>
             <div class="form-search-wrap"><a href="index.html#" class="header-search-switcher dfd-socicon-Search"></a>
             </div>
